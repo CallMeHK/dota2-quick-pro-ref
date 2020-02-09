@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
 		"build-json": "node build-json/format-json.js"
   },
+	"homepage": ".",
   "browserslist": [
     ">0.2%",
     "not dead",
